@@ -1,5 +1,6 @@
 body{
     font-family:sans-serif;
+    background-image:url("background.jpg");
 }
 h1{ text-align: center;
     border-style: inset;
